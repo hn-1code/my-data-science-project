@@ -1,6 +1,7 @@
-Basic Data Dcience Notebook having looked on these:
+Data Science Notebook having looked on following:
 Markdown cells
 Code cells
 Headers
-Ordered and Unordered lists
 Arithmatic Operations
+Image & link insertion
+Ordered and Unordered lists
